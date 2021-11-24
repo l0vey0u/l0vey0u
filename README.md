@@ -23,7 +23,7 @@
 "Fuzzing web page", Inc0gnito
 ```
 
-🚩 CTF
+🚩 Award
 ```diff
 2017 KCTF - 4th
 2018 SW Secure coding contest - 4th
@@ -31,10 +31,12 @@
 2020 ACOC CTF - 1th
 + 2021 Incognito CTF - STAFF
 + 2021 KOSPO web service infosec contest - 5th
++ 2021 KShieldjr 7th Rank - 1th
 ```
 - KCTF : Kyonggi Univ
 - SW Secure coding contest was contest that find vuln and patch the given web page src
 - ACOC : Korea Army Cyber Operation Center
+- KShieldjr : Security Study Track ( Analysis Virus )
 
 📌 I'm at  
 |Kyonggi Univ.|K.knock|K-Shield Jr.|Hackyboiz|
