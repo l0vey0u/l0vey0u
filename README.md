@@ -23,13 +23,17 @@
 "Fuzzing web page", Inc0gnito
 ```
 
+📌 Contest Operating
+```diff
+2018 KCTF - STAFF
++ 2021 Incognito CTF - STAFF
+```
+
 🚩 Award
 ```diff
 2017 KCTF - 4th
 2018 SW Secure coding contest - 4th
-2018 KCTF - STAFF
 2020 ACOC CTF - 1th
-+ 2021 Incognito CTF - STAFF
 + 2021 KOSPO web service infosec contest - 5th
 + 2021 KShieldjr 7th Rank - 1th
 + 2021 KShieldjr Team Project - 1th
