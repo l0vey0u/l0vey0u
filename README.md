@@ -6,8 +6,10 @@
 - Twitter [@seulifer](https://twitter.com/seulifer)
 - Velog [@seulifer](https://velog.io/@seulifer)
 - [Main Blog](https://weekly.syru.dev)
+- [Hackyboiz Blog Author](https://hackyboiz.github.io/tags/syru/)
 
 ```diff
++ [hackyboiz blog author](https://hackyboiz.github.io/tags/syru/)
 + [main blog](https://weekly.syru.dev)
 - [used blog1](https://deokho.tistory.com)
 - [used blog2](https://l4zyfox.tistory.com)
