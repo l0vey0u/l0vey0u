@@ -10,10 +10,8 @@
 
 ```diff
 + [hackyboiz blog author](https://hackyboiz.github.io/tags/syru/)
-+ [main blog](https://weekly.syru.dev)
-- [used blog1](https://deokho.tistory.com)
-- [used blog2](https://l4zyfox.tistory.com)
-- [used blog3](https://syrulife.tistory.com)
++ [main blog](https://leak.syru.dev)
+- [used blog](https://syrulife.tistory.com)
 - [used til](https://til.syru.dev)
 ```
 
