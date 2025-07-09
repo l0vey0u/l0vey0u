@@ -5,7 +5,7 @@
 - Instagram [@syru_._](https://www.instagram.com/syru_._/)  
 - Twitter [@seulifer](https://twitter.com/seulifer)
 - Velog [@seulifer](https://velog.io/@seulifer)
-- [Main Blog](https://weekly.syru.dev)
+- [Main Blog](https://leak.syru.dev)
 - [Hackyboiz Blog Author](https://hackyboiz.github.io/tags/syru/)
 
 ```diff
@@ -26,7 +26,8 @@
 📌 Contest Operating
 ```diff
 2018 KCTF - STAFF
-+ 2021 Incognito CTF - STAFF
+2021 Incognito CTF - STAFF
++ 2023 Hacking Championship Junior CTF - STAFF
 ```
 
 🚩 Award
@@ -34,10 +35,11 @@
 2017 KCTF - 4th
 2018 SW Secure coding contest - 4th
 2020 ACOC CTF - 1th
-+ 2021 KOSPO web service infosec contest - 5th
-+ 2021 KShieldjr 7th Rank - 1th
-+ 2021 KShieldjr Team Project - 1th
-+ 2021 KOTSA web service infosec contest - 2th (univ)
+2021 KOSPO web service infosec contest - 5th
+2021 KShieldjr 7th Rank - 1th
+2021 KShieldjr Team Project - 1th
+2021 KOTSA web service infosec contest - 2th (univ)
++ 2025 전라남도 웹취약점 경진대회 - 3rd (general)
 ```
 - KCTF : Kyonggi Univ
 - SW Secure coding contest was contest that find vuln and patch the given web page src
@@ -46,9 +48,9 @@
 - KOTSA : Korea Transportation Safety Authority
 
 📌 I'm at  
-|Kyonggi Univ.|K.knock|K-Shield Jr.|Hackyboiz|
-|:-:|:-:|:-:|:-:|
-|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137625672-76ef3a21-60ab-4bd3-87f0-69bd07d3ff50.png">](http://www.kyonggi.ac.kr/KyonggiUp.kgu)|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137625577-e5c0f841-5f1b-404e-a744-c43a6aec5512.png">](https://kknock.org)|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137624914-1b83bcd1-6b90-4d36-b81d-bed28b86d63b.png">](http://kshieldjr.org)|[<img width="80px" src="https://hackyboiz.github.io/img/avatar.png">](https://hackyboiz.github.io/)|
+|Kyonggi Univ.|K.knock|K-Shield Jr.|Hackyboiz|DEEPNOLOGY|
+|:-:|:-:|:-:|:-:|:-:|
+|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137625672-76ef3a21-60ab-4bd3-87f0-69bd07d3ff50.png">](http://www.kyonggi.ac.kr/KyonggiUp.kgu)|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137625577-e5c0f841-5f1b-404e-a744-c43a6aec5512.png">](https://kknock.org)|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137624914-1b83bcd1-6b90-4d36-b81d-bed28b86d63b.png">](http://kshieldjr.org)|[<img width="80px" src="https://hackyboiz.github.io/img/avatar.png">](https://hackyboiz.github.io/)|[<img width="80px" src="https://www.deepnology.co.kr/assets/img/DEEPNOLOGY.png">](https://www.deepnology.co.kr)|
 
 
 This Profile Template is [g0pher's](https://github.com/g0pher98/g0pher98/blob/main/README.md)
