@@ -50,7 +50,7 @@
 📌 I'm at  
 |Kyonggi Univ.|K.knock|K-Shield Jr.|Hackyboiz|DEEPNOLOGY|
 |:-:|:-:|:-:|:-:|:-:|
-|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137625672-76ef3a21-60ab-4bd3-87f0-69bd07d3ff50.png">](http://www.kyonggi.ac.kr/KyonggiUp.kgu)|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137625577-e5c0f841-5f1b-404e-a744-c43a6aec5512.png">](https://kknock.org)|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137624914-1b83bcd1-6b90-4d36-b81d-bed28b86d63b.png">](http://kshieldjr.org)|[<img width="80px" src="https://hackyboiz.github.io/img/avatar.png">](https://hackyboiz.github.io/)|[<img width="80px" src="https://www.deepnology.co.kr/assets/img/DEEPNOLOGY.png">](https://www.deepnology.co.kr)|
+|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137625672-76ef3a21-60ab-4bd3-87f0-69bd07d3ff50.png">](http://www.kyonggi.ac.kr/KyonggiUp.kgu)|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137625577-e5c0f841-5f1b-404e-a744-c43a6aec5512.png">](https://kknock.org)|[<img width="80px" src="https://user-images.githubusercontent.com/44149738/137624914-1b83bcd1-6b90-4d36-b81d-bed28b86d63b.png">](http://kshieldjr.org)|[<img width="80px" src="https://hackyboiz.github.io/img/avatar.png">](https://hackyboiz.github.io/)|[<img width="80px" src="https://raw.githubusercontent.com/l0vey0u/priv_wiki/refs/heads/main/dn.png?token=GHSAT0AAAAAADF4U25TGZAJ7M5M7CNIC3CE2DOUXWA">](https://www.deepnology.co.kr)|
 
 
 This Profile Template is [g0pher's](https://github.com/g0pher98/g0pher98/blob/main/README.md)
