@@ -15,9 +15,6 @@
 - [used til](https://til.syru.dev)
 ```
 
-[![status](https://github-readme-stats.vercel.app/api?username=l0vey0u&show_icons=true&title_color=db61a2&text_color=ddd&icon_color=4d99e8&bg_color=0d1117&border_color=fff&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)  
-
-
 📢 Speech
 ```diff
 "Fuzzing web page", Inc0gnito
